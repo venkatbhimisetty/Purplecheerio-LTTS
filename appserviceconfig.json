@@ -4,7 +4,7 @@
     "sampleservice": {
       "protocol": "https",
       "port": 7777,
-      "hostname": "54.86.120.189",
+      "hostname": "localhost",
       "description": "REST END POINT For Sample Service.",
       "configfilepath": "./appconfig.json",
       "security": "basic",
